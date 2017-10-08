@@ -1,3 +1,6 @@
 [submodule "modules/hublin-easyrtc-connector"]
 	path = modules/hublin-easyrtc-connector
 	url = https://ci.open-paas.org/stash/scm/meet/hublin-easyrtc-connector.git
+[submodule "modules/hublin-janus-connector"]
+	path = modules/hublin-janus-connector
+	url = https://github.com/hassinehamza/hublin-janus-connector.git
